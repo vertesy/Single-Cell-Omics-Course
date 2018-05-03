@@ -11,7 +11,7 @@ In this course we will combine lectures with on-hand data analysis to understand
 
 ### Topics covered
 
-- Single-Cell biology: Concepts, history and technologies.
+- Single-cell biology: concepts, history and technologies.
 - Single-cell transcriptomics: experimental and analytic overview.
 - R-programming to explore and visualize data.
 - Data analysis concepts related to high-throughput data, and single-cell transcriptomics.
