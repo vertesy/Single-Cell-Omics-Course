@@ -44,7 +44,7 @@ The course is intended for those who have basic familiarity with
 
 - R programming language.
 
-  - > *You can learn about this free language and editor at Rstudio [here](https://scholar.harvard.edu/dromney/online-resources-learning-r) and [here](https://www.rstudio.com/online-learning/#r-programming).*
+  - > *You can learn about R and the editor Rstudio [here](https://scholar.harvard.edu/dromney/online-resources-learning-r) and [here](https://www.rstudio.com/online-learning/#r-programming).*
 
 
 
