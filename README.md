@@ -1,4 +1,4 @@
-# Single-Cell-Omics-Course
+# Single-cell Omics Course
 A multi-week summer workshop on single-cell (gen)omics and data analysis.
 
 
