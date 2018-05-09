@@ -1,5 +1,3 @@
-# Single-cell omics course
-
 A 2 week summer workshop on single-cell (transcript)omics and data analysis.
 
 
@@ -75,11 +73,11 @@ The course is intended for those who have basic familiarity with
 
 ### Registration
 
-- To be announced.
+- Application for the course:	https://goo.gl/forms/kLacWZkMCS3B2hrG3
 
 
 
-## Schedule
+## Calendar
 
 
 <iframe src="https://calendar.google.com/calendar/embed?title=Summer%20Courses%20Accra&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffcc66&amp;src=j1ia6mq3lldpjj0k7g7p1bei44%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Africa%2FAccra&dates=20180720%2F20180819" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
