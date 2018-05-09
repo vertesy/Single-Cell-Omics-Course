@@ -1,5 +1,7 @@
-# Single-Cell-Omics-Course
+# Single-cell Omics Course
 A multi-week summer workshop on single-cell (gen)omics and data analysis.
+
+
 
 
 
@@ -8,15 +10,25 @@ A multi-week summer workshop on single-cell (gen)omics and data analysis.
 In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to understand and use already published single-cell data for your own research.
 
 - Overview                                            <https://vertesy.github.io/Single-Cell-Omics-Course/>
-- Reading:  					      <http://bit.ly/Readings_SC_OMICS>
+	 Reading:  					      <http://bit.ly/Readings_SC_OMICS>
 - Schedule [will be available later]:   <http://bit.ly/Schedule_SC_OMICS>
 - Application for the course:              https://goo.gl/forms/kLacWZkMCS3B2hrG3
 
- 
+<<<<<<< HEAD
+
+=======
+#### Resources
+Overview                                            https://vertesy.github.io/Single-Cell-Omics-Course/  
+Readings:        http://bit.ly/Readings_SC_OMICS  
+Schedule [will be available later]:        http://bit.ly/Schedule_SC_OMICS  
+Application for the course:                 https://goo.gl/forms/kLacWZkMCS3B2hrG3  
+
+
+>>>>>>> origin/master
 
 ### Topics covered
 
-- Single-Cell biology: Concepts, history and technologies.
+- Single-cell biology: concepts, history and technologies.
 - Single-cell transcriptomics: experimental and analytic overview.
 - R-programming to explore and visualize data.
 - Data analysis concepts related to high-throughput data, and single-cell transcriptomics.
@@ -49,7 +61,7 @@ The course is intended for those who have basic familiarity with
 
 - R programming language.
 
-  - > *You can learn about this free language and editor at Rstudio [here](https://scholar.harvard.edu/dromney/online-resources-learning-r) and [here](https://www.rstudio.com/online-learning/#r-programming).*
+  - > *You can learn about R and the editor Rstudio [here](https://scholar.harvard.edu/dromney/online-resources-learning-r) and [here](https://www.rstudio.com/online-learning/#r-programming).*
 
 
 
@@ -58,7 +70,7 @@ The course is intended for those who have basic familiarity with
 #### Before the course
 
 - The course might be quite steep for some of you, and if you feel we miss some basics, please go ahead to fill in the gaps so you can better follow the course!
-- Links to tutorials and books will be provided here if you want to brush up your knowledge on some topics.
+- Links to tutorials and books will be provided [here](http://bit.ly/Readings_SC_OMICS) if you want to brush up your knowledge on some topics.
 
 #### During the course
 
@@ -68,4 +80,4 @@ The course is intended for those who have basic familiarity with
 
 ### Registration
 
-- To be announced.
+Through the [online application form](https://goo.gl/forms/kLacWZkMCS3B2hrG3 ).
