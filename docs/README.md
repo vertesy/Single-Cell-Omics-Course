@@ -7,19 +7,21 @@
 A 2 week summer workshop on single-cell (gen)omics and data analysis.
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/z3OYC7cJxj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 
 ## About the course
 
 In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to understand and use already published single-cell data for your own research.
 
-- Overview                                            <https://vertesy.github.io/Single-Cell-Omics-Course/>
-  Reading:  					      <http://bit.ly/Readings_SC_OMICS>
-- Schedule [will be available later]:   <http://bit.ly/Schedule_SC_OMICS>
-- Application for the course:              <https://goo.gl/forms/kLacWZkMCS3B2hrG3>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/z3OYC7cJxj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
- 
+- Overview                                            <https://vertesy.github.io/Single-Cell-Omics-Course/>  
+- Reading:  					      <http://bit.ly/Readings_SC_OMICS>  
+- Schedule [will be available later]:   <http://bit.ly/Schedule_SC_OMICS>  
+- Application for the course:              <https://goo.gl/forms/kLacWZkMCS3B2hrG3>  
+
+
 
 ### Topics covered
 
@@ -82,6 +84,4 @@ The course is intended for those who have basic familiarity with
 ## Schedule
 
 
-
-
-<iframe src="https://calendar.google.com/calendar/embed?title=Summer%20Courses%20Accra&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffcc66&amp;src=j1ia6mq3lldpjj0k7g7p1bei44%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Africa%2FAccra&dates=20180701%2F20180810" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?title=Summer%20Courses%20Accra&amp;height=600&amp;wkst=2&amp;bgcolor=%23ffcc66&amp;src=j1ia6mq3lldpjj0k7g7p1bei44%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=Africa%2FAccra&dates=20180720%2F20180819" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
