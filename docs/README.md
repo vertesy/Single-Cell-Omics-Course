@@ -1,12 +1,6 @@
-# Exploratory-data-analysis-in-R
+# Single-cell omics course
 
-
-
-# Single-Cell-Omics-Course
-
-A 2 week summer workshop on single-cell (gen)omics and data analysis.
-
-
+A 2 week summer workshop on single-cell (transcript)omics and data analysis.
 
 
 
@@ -14,10 +8,14 @@ A 2 week summer workshop on single-cell (gen)omics and data analysis.
 
 In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to understand and use already published single-cell data for your own research.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/z3OYC7cJxj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/z3OYC7cJxj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+
+
 
 - Overview                                            <https://vertesy.github.io/Single-Cell-Omics-Course/>  
-- Reading:  					      <http://bit.ly/Readings_SC_OMICS>  
+	 Reading:  					      <http://bit.ly/Readings_SC_OMICS>  
 - Schedule [will be available later]:   <http://bit.ly/Schedule_SC_OMICS>  
 - Application for the course:              <https://goo.gl/forms/kLacWZkMCS3B2hrG3>  
 
