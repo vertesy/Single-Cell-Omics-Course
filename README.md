@@ -1,7 +1,5 @@
-# Single-cell Omics Course
-A multi-week summer workshop on single-cell (gen)omics and data analysis.
-
-
+# Single-cell omics course
+A 2 week long summer workshop on single-cell (transcript)omics and data analysis.
 
 
 
@@ -10,21 +8,11 @@ A multi-week summer workshop on single-cell (gen)omics and data analysis.
 In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to understand and use already published single-cell data for your own research.
 
 - Overview                                            <https://vertesy.github.io/Single-Cell-Omics-Course/>
-	 Reading:  					      <http://bit.ly/Readings_SC_OMICS>
-- Schedule [will be available later]:   <http://bit.ly/Schedule_SC_OMICS>
-- Application for the course:              https://goo.gl/forms/kLacWZkMCS3B2hrG3
-
-<<<<<<< HEAD
-
-=======
-#### Resources
-Overview                                            https://vertesy.github.io/Single-Cell-Omics-Course/  
-Readings:        http://bit.ly/Readings_SC_OMICS  
-Schedule [will be available later]:        http://bit.ly/Schedule_SC_OMICS  
-Application for the course:                 https://goo.gl/forms/kLacWZkMCS3B2hrG3  
+	 Reading:  					    <http://bit.ly/Readings_SC_OMICS>
+- Schedule [will be available later]:  <http://bit.ly/Schedule_SC_OMICS>
+- Application for the course:             https://goo.gl/forms/kLacWZkMCS3B2hrG3
 
 
->>>>>>> origin/master
 
 ### Topics covered
 
