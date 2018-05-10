@@ -7,7 +7,7 @@ A 2 week long summer workshop on single-cell (transcript)omics and data analysis
 Some details to be specified later.
 
 | Date         | 31/07-10/08 2018                        |
-| ------------ | --------------------------------------- |
+| ------------ | :--------------------------------------- |
 | **Time**     | Daily 9AM-4PM                           |
 | **Location** | Accra campus of Uni. Ghana; Room T.B.A. |
 
