@@ -19,7 +19,7 @@ In this course we will combine lectures with on-hand data analysis to understand
 
 
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/z3OYC7cJxj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z3OYC7cJxj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 
