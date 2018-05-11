@@ -15,7 +15,7 @@ Some details to be specified later.
 
 ## About the course
 
-In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to understand and use already published single-cell data for your own research.
+In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to analyze publicly available single-cell data for your own research.
 
 
 
@@ -25,16 +25,17 @@ In this course we will combine lectures with on-hand data analysis to understand
 
 Please find additional information on the links below. Some of them will only be available / complete later.
 
-- Overview                                       <https://vertesy.github.io/Single-Cell-Omics-Course/>  
-- Reading:  					<http://bit.ly/Readings_SC_OMICS>  
-- Schedule:  					<http://bit.ly/Schedule_SC_OMICS>  
-- Application for the course:         <https://goo.gl/forms/kLacWZkMCS3B2hrG3>  
+- Overview and details are on the [**course website**](https://vertesy.github.io/Single-Cell-Omics-Course/).
+- Reading: <http://bit.ly/Readings_SC_OMICS>
+- Schedule:  <http://bit.ly/Schedule_SC_OMICS>
+- Apply for the course [online](https://goo.gl/forms/kLacWZkMCS3B2hrG3).
+
 
 
 
 ### Topics covered
 
-- Single-Cell biology: Concepts, history and technologies.
+- Single-cell biology: concepts, history and technologies.
 - Single-cell transcriptomics: experimental and analytic overview.
 - R-programming to explore and visualize data.
 - Data analysis concepts related to high-throughput data, and single-cell transcriptomics.
@@ -47,29 +48,29 @@ Please find additional information on the links below. Some of them will only be
 - ~15 people.
 - Combination of lectures (powerpoint/slide based) and on-hands programming in a computer lab / own laptop in R.
 - Full-day course, 5 days a week,  2 weeks.
-- Assignments 
+- Assignments. 
 
 
 
 ### Prerequisites
 
 - !!! In case we cannot get a computer lab, you need to bring your own laptop.
-  - If you don't have one, please contact us 
+  - If you don't have one, please contact us. 
 - You also need to install [RStudio](https://www.rstudio.com/products/rstudio/) on your laptop before the course (it's free).
 
 
 
 The course is intended for those who have basic familiarity with:
 
-- Molecular biology of the cell, especially gene expression and RNA-bioloy
+- Molecular biology of the cell, especially gene expression and RNA-biology.
 
-- Statistics
+- Statistics.
 
 - R programming language. 
 
   - > *You can learn about this free language and editor at Rstudio [here](https://scholar.harvard.edu/dromney/online-resources-learning-r) and [here](https://www.rstudio.com/online-learning/#r-programming).*
 
-  - If you are unfamiliar with R, you can also apply for the **[Exploratory data analysis in R](https://vertesy.github.io/Exploratory-data-analysis-in-R/)** course
+  - If you are unfamiliar with R, you can also apply for the **[Exploratory data analysis in R](https://vertesy.github.io/Exploratory-data-analysis-in-R/)** course.
 
 
 

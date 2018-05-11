@@ -5,7 +5,7 @@ A 2 week long summer workshop on single-cell (transcript)omics and data analysis
 
 ## About the course
 
-In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to understand and use already published single-cell data for your own research.
+In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to analyze publicly available single-cell data for your own research.
 
 #### Resources
 
