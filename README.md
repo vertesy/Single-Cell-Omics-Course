@@ -1,5 +1,5 @@
 # Single-cell omics course
-A 2 week long summer workshop on single-cell (transcript)omics and data analysis.
+A 7 day long summer workshop on single-cell (transcript)omics and data analysis.
 
 
 
