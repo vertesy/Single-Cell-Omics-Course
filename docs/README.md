@@ -1,4 +1,10 @@
-A 2 week long summer workshop on single-cell (transcript)omics and data analysis.
+A 7 days long summer workshop on single-cell (transcript)omics and data analysis.
+
+
+
+### News
+
+- **The course is to be rescheduled due to 1st year Phd exams! See preliminary dates below**
 
 
 
@@ -6,10 +12,10 @@ A 2 week long summer workshop on single-cell (transcript)omics and data analysis
 
 Some details to be specified later.
 
-| Date         | 31/07-10/08 2018                        |
-| ------------ | :--------------------------------------- |
-| **Time**     | Daily 9AM-4PM                           |
-| **Location** | Accra campus of Uni. Ghana; Room T.B.A. |
+| Date         | 06-07/08 and 13-17/08                                        |
+| ------------ | :----------------------------------------------------------- |
+| **Time**     | Daily 10AM-5PM, 1 hour lunch break                           |
+| **Location** | Accra campus of Uni. Ghana; MPhil lecture hall and the Bioinformatics room |
 
 
 
