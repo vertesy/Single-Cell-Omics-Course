@@ -4,7 +4,7 @@ A 7 days long summer workshop on single-cell (transcript)omics and data analysis
 
 ### News
 
-- If you registered in June, please **confirm participation ASAP on**: https://goo.gl/forms/qKmwXc3rZzY5tBjO2
+- If you registered in June, please **confirm participation ASAP on**: [https://goo.gl/forms/qKmwXc3rZzY5tBjO2](https://goo.gl/forms/qKmwXc3rZzY5tBjO2)
 - **The course is to be rescheduled due to 1st year Phd exams! See preliminary dates / calendar below**
 
 
@@ -85,7 +85,7 @@ The course is intended for those who have basic familiarity with:
 
 #### During the course
 
-- Course notes, lecture slides and programming examples [will be available on google drive](https://drive.google.com/open?id=1I8EvaKCv4bQQLhuigzF8AtG6ewe82ueQ) (and will remain so after the course; http://bit.ly/SCG_drive).
+- Course notes, lecture slides and programming examples [will be available on google drive](https://drive.google.com/open?id=1I8EvaKCv4bQQLhuigzF8AtG6ewe82ueQ) (and will remain so after the course; [http://bit.ly/SCG_drive](http://bit.ly/SCG_drive)).
 
 
 
@@ -93,7 +93,7 @@ The course is intended for those who have basic familiarity with:
 
 - If you did not register yet: apply for the course [online](https://goo.gl/forms/kLacWZkMCS3B2hrG3). 
   - Note, that registration now only allows you to join if there are free places due to cancellation. 
-  - If you registered in June, please **confirm participation ASAP on**: https://goo.gl/forms/qKmwXc3rZzY5tBjO2
+  - If you registered in June, please **confirm participation ASAP on**: [https://goo.gl/forms/qKmwXc3rZzY5tBjO2](https://goo.gl/forms/qKmwXc3rZzY5tBjO2)
 
 
 
