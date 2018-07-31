@@ -4,26 +4,23 @@ A 7 days long summer workshop on single-cell (transcript)omics and data analysis
 
 ### News
 
-- **The course is to be rescheduled due to 1st year Phd exams! See preliminary dates below**
+- If you registered in June, please **confirm participation ASAP on**: https://goo.gl/forms/qKmwXc3rZzY5tBjO2
+- **The course is to be rescheduled due to 1st year Phd exams! See preliminary dates / calendar below**
 
 
 
 ### Date, Time & Location
 
-Some details to be specified later.
-
-| Date         | 06-07/08 and 13-17/08                                        |
-| ------------ | :----------------------------------------------------------- |
-| **Time**     | Daily 10AM-5PM, 1 hour lunch break                           |
-| **Location** | Accra campus of Uni. Ghana; MPhil lecture hall and the Bioinformatics room |
+| Date         | 06-07/08 and 13-17/08                           |
+| ------------ | :---------------------------------------------- |
+| **Time**     | 10:30-12:30 & 13:30-15:30, 1 hour lunch break   |
+| **Location** | Accra campus of Uni. Ghana; Bioinformatics room |
 
 
 
 ## About the course
 
 In this course we will combine lectures with on-hand data analysis to understand concepts and learn skills to analyze publicly available single-cell data for your own research.
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z3OYC7cJxj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
@@ -32,10 +29,10 @@ In this course we will combine lectures with on-hand data analysis to understand
 Please find additional information on the links below. Some of them will only be available / complete later.
 
 - Overview and details are on the [**course website**](https://vertesy.github.io/Single-Cell-Omics-Course/).
+- We will use the EDA [**google group**](https://groups.google.com/forum/#!forum/r-2018-accra) for email communication.
+  - If you don't want to follow this course, you can unsubscribe / setup to receive no emails.
+- **Course materials** will be online on **[google drive](http://bit.ly/SCG_drive)** (http://bit.ly/SCG_drive).
 - Reading: <http://bit.ly/Readings_SC_OMICS>
-- Schedule:  <http://bit.ly/Schedule_SC_OMICS>
-- Apply for the course [online](https://goo.gl/forms/kLacWZkMCS3B2hrG3).
-
 
 
 
@@ -60,8 +57,7 @@ Please find additional information on the links below. Some of them will only be
 
 ### Prerequisites
 
-- !!! In case we cannot get a computer lab, you need to bring your own laptop.
-  - If you don't have one, please contact us. 
+- If you don't have one, please contact us. 
 - You also need to install [RStudio](https://www.rstudio.com/products/rstudio/) on your laptop before the course (it's free).
 
 
@@ -89,13 +85,17 @@ The course is intended for those who have basic familiarity with:
 
 #### During the course
 
-- Course notes, lecture slides and programming examples [will be available on google drive](https://drive.google.com/open?id=1I8EvaKCv4bQQLhuigzF8AtG6ewe82ueQ) (and will remain so after the course).
+- Course notes, lecture slides and programming examples [will be available on google drive](https://drive.google.com/open?id=1I8EvaKCv4bQQLhuigzF8AtG6ewe82ueQ) (and will remain so after the course; http://bit.ly/SCG_drive).
 
 
 
 ### Registration
 
-- Apply for the course [online](https://goo.gl/forms/kLacWZkMCS3B2hrG3).
+- If you did not register yet: apply for the course [online](https://goo.gl/forms/kLacWZkMCS3B2hrG3). 
+  - Note, that registration now only allows you to join if there are free places due to cancellation. 
+  - If you registered in June, please **confirm participation ASAP on**: https://goo.gl/forms/qKmwXc3rZzY5tBjO2
+
+
 
 
 
@@ -108,3 +108,10 @@ The course is intended for those who have basic familiarity with:
 ### Location
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1985.2011706141207!2d-0.19056824197952388!3d5.654796698975233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfdf9c7ce1022295%3A0xed11bbdcfe5d75d7!2sDepartment+of+Biochemistry%2C+Cell+and+Molecular+Biology%2C+Volta+Rd%2C+Accra!5e0!3m2!1sen!2sgh!4v1531157215019" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+
+### Contact
+
+summer.course.2018.accra _AT_ gmail.com
+
