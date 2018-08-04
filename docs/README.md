@@ -11,7 +11,7 @@ A 7 days long summer workshop on single-cell (transcript)omics and data analysis
 
 ### Date, Time & Location
 
-| Date         | 06-07/08 and 13-17/08                           |
+| Date         | 06-17/08, See calendar below                           |
 | ------------ | :---------------------------------------------- |
 | **Time**     | 10:30-12:30 & 13:30-15:30, 1 hour lunch break   |
 | **Location** | Accra campus of Uni. Ghana; Bioinformatics room |
