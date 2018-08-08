@@ -1,0 +1,16 @@
+
+
+# Find a pattern: ">"
+grep ">" myfile
+
+# Find a pattern and push the output in a file
+grep ">" myfile > geneNames
+
+# pipe (|) together two commands
+head myfile | grep ">"
+
+# nr of genes in lines 1-10
+head myfile | grep ">" | wc -l
+
+# nr of all genes in the file
+cat myfile | grep ">" | wc -l

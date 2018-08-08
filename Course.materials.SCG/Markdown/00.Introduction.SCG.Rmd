@@ -150,6 +150,7 @@ This course material is based on hundreds of sources published on the web. Refer
    3. File formats
    4. Tools & software
 5. *Example dataset analysis with Seurat (P)* 
+   1. Machine learning concepts
 6. (Novel & experimental data analysis)
 
 

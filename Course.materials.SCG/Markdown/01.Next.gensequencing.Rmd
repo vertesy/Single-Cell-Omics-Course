@@ -74,6 +74,9 @@ Different NGS platforms / configurations and sequencing chemistry.
 
 ## Illumina Sequencing
 
+- [Watch Intro video](https://youtu.be/fCd6B5HRaZ8) 
+- [Alternative slides](https://rawgit.com/bioinformatics-core-shared-training/ndarc16/master/Day1/Session3-ngs-intro.html)
+
 
 
 ## Amplification on the flow cell by bridge PCR
