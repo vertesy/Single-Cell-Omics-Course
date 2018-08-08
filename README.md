@@ -5,7 +5,8 @@ A 7 day long summer workshop on single-cell (transcript)omics and data analysis.
 
 ## News
 
-See the slides:
+See the slides: 
+(Use 2D navigation with arrows, or simply click the space bar!)
 
 - ##### [00.intro.SCG](https://rawgit.com/vertesy/Single-Cell-Omics-Course/master/Course.materials.SCG/00.intro.SCG.html)
 
