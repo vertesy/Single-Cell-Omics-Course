@@ -1956,7 +1956,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 </ul>
 </section>
 <section id="how-would-i-approach-my-questions" class="slide level2">
-<h2>2. / 3. How would I approach my questions?</h2>
+<h2>2. / 5. How would I approach my questions?</h2>
 <ol type="1">
 <li class="fragment">Quality control and filtering:
 <ol type="1">
@@ -1981,7 +1981,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 </ol>
 </section>
 <section id="how-seurat-approaches-these-questions" class="slide level2">
-<h2>2. / 3. How SEURAT approaches these questions?</h2>
+<h2>2. / 5. How SEURAT approaches these questions?</h2>
 <ol type="1">
 <li class="fragment">Quality control and filtering:
 <ol type="1">
@@ -2006,7 +2006,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 </ol>
 </section>
 <section id="input-data-formats" class="slide level2">
-<h2>3.4 Input data formats</h2>
+<h2>5.4 Input data formats</h2>
 <ul>
 <li class="fragment">Simple data frames
 <ul>
@@ -2090,7 +2090,7 @@ document.getElementsByTagName('head')[0].appendChild(style);
 <section id="what-is-pbmc-in-r" class="slide level2">
 <h2>What is pbmc in r?</h2>
 <p>What data structure is created?</p>
-<pre><code># Figure out what 
+<pre><code># Figure out what
 is(pbmc)
 str(pbmc)
 </code></pre>
@@ -2099,7 +2099,7 @@ str(pbmc)
 </ul>
 </section>
 <section id="filtering-genes-and-cells" class="slide level2">
-<h2>3.4.1. Filtering genes and cells</h2>
+<h2>5.4.1. Filtering genes and cells</h2>
 <ul>
 <li>Problem
 <ul>
@@ -2125,13 +2125,14 @@ str(pbmc)
 <p>… Go back to the R script!</p>
 </section>
 <section id="normalisation" class="slide level2">
-<h2>3.4.2. Normalisation</h2>
-<p>Problem:</p>
+<h2>5.4.2. Normalisation</h2>
+<ul>
+<li>Problem:
 <ul>
 <li>Each cell has <em>very</em> different read counts - how to compare?</li>
 <li>Cells should be normalised to comparable expression level</li>
-</ul>
-<p><code>LogNormalize()</code> provides a typical way to normalise data</p>
+</ul></li>
+<li><p><code>LogNormalize()</code> provides a typical way to normalise data</p>
 <ul>
 <li>divide by the total expression</li>
 <li>multiplies this by a scale factor (def: 10K)</li>
@@ -2140,23 +2141,25 @@ str(pbmc)
 <li>gene expression is regulated on the fold change level</li>
 </ul></li>
 <li><strong><em>Who can do this in R?</em></strong></li>
+</ul></li>
 </ul>
 </section>
 <section id="identify-the-most-variable-genes" class="slide level2">
-<h2>3.4.3. Identify the most variable genes</h2>
-<p>Problem:</p>
+<h2>5.4.3. Identify the most variable genes</h2>
+<ul>
+<li>Problem:
 <ul>
 <li><p>the dataset is still huge…</p></li>
-<li><p>How can I remove the uninformative (homogenous) part of the data?</p></li>
-</ul>
-<p>FindVariableGenes()</p>
+<li>How can I remove the uninformative (homogenous) part of the data?</li>
+</ul></li>
+<li><code>FindVariableGenes()</code>
 <ul>
 <li>calculates the average expression &amp; dispersion for each gene</li>
-<li>bin per expression level,<br />
-</li>
+<li>bin per expression level,</li>
 <li>calculates a z-score for dispersion within each bin.
 <ul>
 <li><strong><em>What is Z-score?</em></strong></li>
+</ul></li>
 </ul></li>
 </ul>
 </section>
@@ -2181,6 +2184,64 @@ str(pbmc)
 <li class="fragment">Think abstractly!</li>
 <li class="fragment">What kind of comparison?</li>
 </ul>
+</section>
+<section id="removing-unwanted-sources-of-variation-by-linear-regression-scaling" class="slide level2">
+<h2>5.4.4. Removing unwanted sources of variation by linear regression (“scaling”)</h2>
+<ul>
+<li>Removing unwanted sources of variation by linear regression (“scaling”)</li>
+</ul>
+<p>To mitigate the effect of confounding factors,</p>
+<ul>
+<li><code>Seurat</code> <strong>constructs linear models</strong> <strong>to predict gene expression based on user-defined variables</strong>.
+<ul>
+<li>The residuals of these models are used later for dimensionality reduction and clustering.</li>
+</ul></li>
+</ul>
+</section>
+<section id="removing-confounding-effects-in-seurat" class="slide level2">
+<h2>Removing confounding effects in Seurat</h2>
+<ul>
+<li><code>Seurat</code> can regress out cell-cell variation in gene expression
+<ul>
+<li>driven by batch,</li>
+<li>mapping quality</li>
+<li>the number of detected molecules</li>
+<li>mitochondrial gene expression and</li>
+<li>cell cycle.</li>
+<li>Here we regress on the number of detected molecules per cell.</li>
+</ul></li>
+</ul>
+</section>
+<section id="linear-dimensionality-reduction-by-pca" class="slide level2">
+<h2>5.4.5. Linear dimensionality reduction by PCA</h2>
+<p><strong>See the <a href="../5.4.1.Linear.dimensionality.reduction.by.PCA.html">5.4.1.Linear.dimensionality.reduction.by.PCA.html</a> slides!</strong></p>
+</section>
+<section id="clustering" class="slide level2">
+<h2>5.4.6. Clustering</h2>
+<p><strong>See the <a href="../5.4.6.Clustering.html">5.4.6.Clustering.html</a> slides!</strong></p>
+</section>
+<section id="non-linear-dimensional-reduction-tsne" class="slide level2">
+<h2>5.4.7. Non-linear dimensional reduction (tSNE)</h2>
+<p><strong>See the <a href="../5.4.7.Non-linear.dimensionality.reduction.by.tSNE.html">5.4.7.Non-linear.dimensionality.reduction.by.tSNE.html</a> slides!</strong></p>
+</section>
+<section id="finding-differentially-expressed-genes-deg" class="slide level2">
+<h2>5.4.8. Finding differentially expressed genes (DEG)</h2>
+<p><strong>Questions:</strong></p>
+<ul>
+<li>What define the clusters?</li>
+<li>What genes are expressed in them?</li>
+<li>Which are specific?</li>
+</ul>
+<p><strong>See the <a href="../5.4.8._Finding.differentially.expressed.genes.DEG.html">5.4.8._Finding.differentially.expressed.genes.DEG.html</a> slides!</strong></p>
+</section>
+<section id="gene-set-analysis" class="slide level2">
+<h2>5.4.9. Gene set analysis</h2>
+<h4 id="problem">Problem:</h4>
+<ul>
+<li>Many DEG, but what do they really mean?</li>
+<li>Is there a common function?</li>
+</ul>
+<p><strong>See the <a href="../5.4.8._Finding.differentially.expressed.genes.DEG.html">5.4.8._Finding.differentially.expressed.genes.DEG.html</a> slides!</strong></p>
 </section>
     </div>
   </div>
